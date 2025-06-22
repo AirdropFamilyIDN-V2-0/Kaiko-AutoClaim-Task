@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 
 // === KONFIGURASI ===
-const apiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp5cXpkZ2d3cWp5ampwcGpzam1qIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDYwMTI5MDksImV4cCI6MjA2MTU4ODkwOX0.wL_qr2qkfLvOzxEimgtJyjbSjG3easj4BVgHGt7j8Ps"; // << Ganti ini dengan API KEY mu
+const apiKey = ""; // << Ganti ini dengan API KEY mu
 const directiveListURL = "https://jyqzdggwqjyjjppjsjmj.supabase.co/functions/v1/get-active-directives";
 const verifyURL = "https://jyqzdggwqjyjjppjsjmj.supabase.co/functions/v1/verify-directive-completion";
 
