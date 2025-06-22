@@ -54,13 +54,14 @@ eyJhbGciOiJIUzI1NiIsImtpZCI6Im1...
 
 4. **Edit API Key di script:**
 
-Buka `auto-claim-multi.js`, dan cari:
+Buka `bot.js`, dan cari:
 
 ```js
 const apiKey = "ISI_APIKEY_KAMU";
 ```
 
-Ganti dengan nilai `apikey` yang ada di request header saat klaim directive (via DevTools).
+jika api key yang tersedia tidak bisa 
+maka Ganti dengan nilai `apikey` yang ada di request header saat klaim directive (via DevTools).
 
 ---
 
