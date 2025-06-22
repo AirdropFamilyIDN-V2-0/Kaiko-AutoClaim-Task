@@ -1,7 +1,7 @@
 
 # 🔗 ARC Terminal Auto Claim - Multi Akun
 
-Script otomatis untuk klaim semua misi aktif dari platform [arcterminal.xyz](https://arcterminal.xyz) menggunakan beberapa akun Supabase sekaligus.
+Script otomatis untuk klaim semua misi aktif dari platform [arcterminal.xyz](https://arcterminal.xyz/waitlist?ref=FZZ7LT) menggunakan beberapa akun Supabase sekaligus.
 
 ---
 
