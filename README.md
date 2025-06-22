@@ -33,8 +33,8 @@ arc-auto-claim/
 1. **Clone repositori:**
 
 ```bash
-git clone https://github.com/USERNAME/arc-auto-claim.git
-cd arc-auto-claim
+git clone https://github.com/AirdropFamilyIDN-V2-0/Kaiko-AutoClaim-Task.git
+cd Kaiko-AutoClaim-Task
 ````
 
 2. **Instal dependensi:**
