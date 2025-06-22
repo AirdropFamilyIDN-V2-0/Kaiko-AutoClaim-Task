@@ -67,7 +67,7 @@ Ganti dengan nilai `apikey` yang ada di request header saat klaim directive (via
 ## ▶️ Cara Menjalankan
 
 ```bash
-node auto-claim-multi.js
+node bot.js
 ```
 
 ---
